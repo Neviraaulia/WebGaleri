@@ -1,0 +1,87 @@
+.body {
+  background-color: #CAE8EF;
+}
+.container {
+  width: 100%;
+  height: auto;
+}
+.search_foto {
+  font-family: "poppins", sans-serif;
+  font-size: 15px;
+  border-radius: 50px 0px 0px 50px;
+  padding-left: 20px;
+  width: 280px;
+  height: 35px;
+}
+
+.icon_search_foto {
+  border-radius: 0px 50px 50px 0px;
+  background-color: #e1e1e1;
+  height: 35px;
+}
+
+.logo_foto {
+  font-size: 40px;
+  font-family: "JejuMyeongjo";
+}
+
+.poto11 {
+  border-radius: 30px;
+  width: 24px;
+  height: 24px;
+  margin-left: 5px;
+  margin-top: 7px;
+  margin-bottom: -8px;
+}
+.deskripsi {
+  margin-left: 20px;
+}
+.gambaaar {
+  width: 35px;
+  height: 35px;
+}
+.komentar {
+  border-radius: 20px;
+  height: 40px;
+  padding-left: 20px;
+  font-size: 13px;
+  font-family: "poppins", sans-serif;
+}
+.gbr4{
+    border-radius: 30px;
+    width: 22px;
+    height: 22px;
+    margin-left: 5px;
+}
+.profil1{
+    width: 20px;
+    height: 20px;
+    margin-left: 5px;
+    margin-top: 7px;
+    margin-bottom: -8px;
+}
+.gbr_objek{
+    margin-top: 50px;
+    padding-left: 6px;
+    width: 247px;
+    height: 130px;
+    border-radius: 12px;
+    margin-bottom: -5px;
+}
+.deskripsi{
+  border-radius: 20px;
+  width: 450px;
+  height: 40px;
+  padding-left: 20px;
+  font-size: 13px;
+  font-family: "poppins", sans-serif;
+}
+.footeeerr {
+  font-family: "poppins", sans-serif;
+  background-color: #000;
+  padding: 10px;
+  color: white;
+}
+footer .p2 {
+  text-align: center;
+}

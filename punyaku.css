@@ -1,0 +1,194 @@
+.nmku{
+    font-size: 25px;
+}
+.text{
+    font-size: 100px;
+}
+.judul{
+    margin-top: 30px;
+    font-size: 48px;
+    margin-bottom: 45px;
+    font-family: JejuMyeongjo;
+}
+.userku{
+    border-radius: 13px;
+    margin-bottom: 30px;
+    margin-top: 9px;
+    width: 400px;
+    height: 60px;
+    padding-left: 20px;
+    border-style: solid;
+}
+.gbr{
+   width: 400px;
+   height: 500px;
+   margin-top: 30px;
+}
+.btnmasuk{
+    width: 399px;
+    height: 59px;
+    background-color: #272323;
+    color: white;
+    text-align: center;
+    border-radius: 15px;
+    margin-top: 7px;
+    margin-left: 1px;
+}
+.p{
+    margin-top: 50px;
+    margin-right: 20px;
+}
+.dftr{
+    color:black;
+    margin-left: 4px;
+}
+.dua{
+    border-radius: 16px;
+    margin-bottom: 10px;
+    margin-top: 9px;
+    width: 220px;
+    height: 50px;
+    display: block;
+    padding-left: 20px;
+    border-style: solid;
+
+}
+.btndaftar{
+    width: 503px;
+    height: 45px;
+    background-color: #272323;
+    color: white;
+    text-align: center;
+    border-radius: 15px;
+    margin-top: 20px;
+    margin-left: 14px;
+}
+.gam{
+   width: 400px;
+   height: 568px;
+   margin-top: 1px;
+   margin-left: 50px;
+   
+   
+}
+.jdl{
+    margin-top: 60px;
+    font-size: 52px;
+    margin-bottom: 40px; 
+    font-family: JejuMyeongjo;
+}
+.id{
+    font-size: 23px;
+}
+.akun{
+    margin-left: 160px;
+    margin-top: 10px;
+    
+}
+body{
+    background-color: #E7EEF3;
+}
+/* tampilan agar mobile berubah */
+@media only screen and (max-width: 600px) {
+    .gbr{
+        display:none;
+    }
+    .gam{
+        display:none;
+    }
+}
+.gbr4{
+    border-radius: 13px;
+    width: 247px;
+    height: 241px;
+    margin-top: 5px;
+}
+.gbr2{
+    border-radius: 12px;
+    width: 1105px;
+    height: 530px;
+    margin-left: -5px;
+}
+.jdlku{
+    text-align: center;
+    text-transform: uppercase;
+    margin-top: 70px;
+    color: #272323;
+    font-family: JejuMyeongjo;
+    margin-left: -6px;
+    margin-bottom: 10px;
+}
+.gbr3{
+    margin-top: 50px;
+    padding-left: 6px;
+    width: 247px;
+    height: 130px;
+    border-radius: 12px;
+    margin-bottom: -5px;
+}
+    
+.logo{
+    margin-left: 19px;
+    font-family: "EB Garamond";
+}
+.btn{
+    margin-left: -3px;
+    border-radius: 55;
+}
+.jdlme{
+    margin-top: 8px;
+    font-family: JejuMyeongjo;
+    margin-left: 350px;
+    font-size: 29px;
+}
+footer{
+    background-color: black;
+    color: white;
+    padding-left: 70px;
+    text-align: center;
+    margin-top: 200px;
+}
+.me{
+    padding-left: -5px;
+    font-family: JejuMyeongjo;
+    margin-top: 40px;
+}
+.txt{
+    text-align: left;
+}
+.gbr5{
+    width: 24px;
+    height: 24px;
+    margin-left: 5px;
+    margin-top: 7px;
+    margin-bottom: -8px;
+}
+.ms-2{
+    font-size: 90%;
+    margin-bottom: -1px;
+    margin-top: -2px;
+}
+.bawah{
+    border-radius: 13px;
+    width: 247px;
+    height: 241px;
+    margin-top: 5px;
+}
+.bi{
+    font-size: 88%;
+    margin-top: -8px;
+    margin-left: -3;
+}
+
+.h-search-form button{
+    position: absolute;
+    height: 30px;
+    border: none;
+    color: black;
+    background:white;
+    top:5px;
+    border-radius: 50px;
+    width: 20px;
+    margin-top: 10px;
+    margin-left: 180px;
+}
